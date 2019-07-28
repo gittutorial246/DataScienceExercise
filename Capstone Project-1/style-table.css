@@ -1,0 +1,17 @@
+
+
+table.dataframe td, table.dataframe th {
+    margin: 0;
+    border: 2px solid #ccf;
+   padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+table.dataframe th:not(:empty) {
+    background-color: #00ffff;
+    text-align: left;
+    font-weight: normal;
+}
+table.dataframe td {
+    border: 2px solid #ccf;
+    background-color: #f4f4ff;
+}
