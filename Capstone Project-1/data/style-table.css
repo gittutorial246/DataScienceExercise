@@ -7,11 +7,11 @@ table.dataframe td, table.dataframe th {
     padding-right: 0.25em;
 }
 table.dataframe th:not(:empty) {
-    background-color: #00ffff;
+    background-color: #90EE90;
     text-align: left;
     font-weight: normal;
 }
 table.dataframe td {
     border: 2px solid #ccf;
-    background-color: #f4f4ff;
+    background-color: #FFF8DC;
 }
